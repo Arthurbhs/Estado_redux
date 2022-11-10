@@ -15,9 +15,9 @@ function App() {
 </div>
 
 <div className='linha'>
-<Média></Média>
-<Soma></Soma>
-<Sorteio></Sorteio>
+<Média ></Média>
+<Soma ></Soma>
+<Sorteio ></Sorteio>
 </div>
     </div>
   );
