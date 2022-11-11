@@ -11,7 +11,7 @@ const Soma = props => {
 <Card Title="Soma dos Números" green>
     <span>
         <span>Resultado: </span>
-        <strong>{ max + min }</strong>
+        <strong>{ (max + min) }</strong>
         
     </span>
  
